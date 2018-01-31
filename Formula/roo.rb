@@ -1,8 +1,8 @@
 class Roo < Formula
   desc "The Roo programming language"
   homepage "https://github.com/roolang/roo"
-  url "https://github.com/roolang/roo/files/1683576/roo-1.1.12-macos.zip"
-  sha256 "207040285e7264dfdc624e1f9b548376b6db1609a43de3291238b01b206423c0" # openssl sha256 [file]
+  url "https://github.com/roolang/roo/files/1683668/roo-120-macos.zip"
+  sha256 "b9089191ad67853f4b72b4a9e5a9c19c330c61fc2fe7df5baff086639bd44034" # openssl sha256 [file]
 
   def install
     bin.install "roo Libs"
