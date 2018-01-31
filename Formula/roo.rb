@@ -1,5 +1,4 @@
 class Roo < Formula
-  version "1.1.12"
   desc "The Roo programming language"
   homepage "https://github.com/roolang/roo"
   url "https://github.com/roolang/roo/files/1683576/roo-1.1.12-macos.zip"
